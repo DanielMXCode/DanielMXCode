@@ -1,19 +1,9 @@
 ![Rezadkim](https://c.tenor.com/a3dYADhHRmcAAAAC/darling-in-the-franxx-smirk.gif)
 
-<h2> Hi there, I'm Reza! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2> Hi there, I'm Blade! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <img align='right' src="https://c.tenor.com/kOMxo1I4AV4AAAAC/darling-in-the-franxx-zero-two.gif" width="230">
 <p><em>Software Enginner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
-<a href="https://discord.gg/rezadkim">
-  <img align="left" alt="Rezadkimi Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/rezadkim">
-  <img align="left" alt="Rezadkimter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.facebook.com/rezadkim.x/">
-  <img align="left" alt="Rezadkim" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"/>
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rezadkim.rezadkim)
 
